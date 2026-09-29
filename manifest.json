@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "nodejs",
+    "entrypoint": "app.js"
+  },
+  "node": {
+    "version": "24.21.0",
+    "package_manager": {
+      "name": "npm",
+      "version": "11.4.2",
+      "package_file": "package.json"
+    }
+  },
+  "files": {
+    "app.js": {
+      "checksum": "03097af463892f88d9f60f3fb2abec89"
+    },
+    "package-lock.json": {
+      "checksum": "56f70947f0895090688f6d5a18a9680e"
+    },
+    "package.json": {
+      "checksum": "e76ff2e8fe49104282ac68f696a66b83"
+    }
+  },
+  "locale": "C"
+}
